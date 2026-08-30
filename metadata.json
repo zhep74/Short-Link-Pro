@@ -1,0 +1,6 @@
+{
+  "name": "Pintas Link",
+  "description": "Platform penyingkat URL modern, cepat, aman, dan responsif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
